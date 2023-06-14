@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with Rec Fire
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Live Url
+THis project can be viewed on url [Firebase Hosting](https://rec-fire-49e39.web.app/login)
 
 ## Available Scripts
 
