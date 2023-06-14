@@ -1,6 +1,7 @@
 {
   "name": "rec-fire",
   "version": "0.1.0",
+  "description": "React Firebase Authentication Project",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -15,6 +16,19 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.0"
   },
+  "author": "Nikhil Mahajan <nik10.mah@gmail.com> (https://www.linkedin.com/in/nikhilmahajan10/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nik10-mah/rec-fire"
+  },
+  "keywords": [
+    "React",
+    "Firebase",
+    "Firebase Authentcation",
+    "Google Authentication",
+    "Bootstrap",
+    "React-Bootstrap"
+  ],
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
