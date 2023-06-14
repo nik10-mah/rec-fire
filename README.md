@@ -1,9 +1,15 @@
-# Getting Started with Rec Fire
+# Rec Fire
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project demonstartes the working onf Google Firebase Authenticationn with Google authentication and basic email password authentication 
 
-# Live Url
-THis project can be viewed on url [Firebase Hosting](https://rec-fire-49e39.web.app/login)
+## Live Url
+This project is deployed using Firebase Hosting and running on [https://rec-fire-49e39.web.app/login](https://rec-fire-49e39.web.app/login)
+
+
+## Prequisites
+- Node version 16.17.0
+- Yarn version 1.22.19
+- Rename file `.env.example` to `.env.local` and then paste your **google firebase keys** accordingly for each variable in the file
 
 ## Available Scripts
 
