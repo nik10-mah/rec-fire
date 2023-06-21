@@ -11,6 +11,13 @@ This project is deployed using Firebase Hosting and running on [https://rec-fire
 - Yarn version 1.22.19
 - Rename file `.env.example` to `.env.local` and then paste your **google firebase keys** accordingly for each variable in the file
 
+## Deployment
+- Login to firebase using `firebase login`
+- Initialize the fieebase pp using `firebase init`
+- Choose `hosting` related optins from avaiable options that get presented
+- run `yarn build`
+- run `firebase-deploy` to deploy to Friebase Hosting
+
 ## Available Scripts
 
 In the project directory, you can run:
